@@ -1,0 +1,3 @@
+[submodule "daktiloskopija"]
+	path = daktiloskopija
+	url = https://github.com/pbeart/daktiloskopija.git
